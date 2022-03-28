@@ -84,5 +84,5 @@
 		<?php endif; ?>
 	</section>
 
-	<?php marianne_loop_comments( 'entry-footer loop-footer text-secondary' ); ?>
+	<?php the_content('<span class="read-more">Continue reading</span>'); ?> '‧' <?php marianne_loop_comments( 'entry-footer loop-footer text-secondary' ); ?>
 </article>
