@@ -1,8 +1,8 @@
 /*
-Theme Name: Marianne
-Theme URI: https://github.com/te2dy/marianne
-Author: Teddy
-Author URI: https://chezteddy.fr/
+Theme Name: Fotimnafilm.sk
+Theme URI: https://github.com/djimio/fotimnafilm
+Author: Djibril
+Author URI: https://djibril.sk/
 Description: Are you looking for a simple theme to highlight your writings? Marianne is a rare minimalistic theme in an ocean of maximalism. It gives a touch of old school blogging to your site, refreshed, with customization options that make it flexible. If you believe that less graphism complexity means less distraction and more readability, this theme is made for you. Whether you are a simple blogger, a writer, a journalist or an intellectual, Marianne will delight you… and your readers.
 Tags: blog, one-column, two-columns, left-sidebar, custom-logo, custom-menu, featured-images, sticky-post, theme-options, threaded-comments, translation-ready, wide-blocks
 Version: 1.8
@@ -18,7 +18,7 @@ Text Domain: marianne
  * Variables
  */
 :root {
-	--color-light-blue: #0057B7;
+	--color-light-blue: #0d6e99;
 	--color-dark-blue: #529ff5;
 
 	--color-light-red: #de0000;
@@ -36,9 +36,9 @@ Text Domain: marianne
 	--color-border: #aaa;
 
 	--color-light-background: #fff;
-	--color-dark-background: #16161D;
+	--color-dark-background: #222222;
 
-	--color-light-text-primary: #000;
+	--color-light-text-primary: #222222;
 	--color-dark-text-primary: rgb(255, 255, 255, 0.85);
 
 	--color-light-text-secondary: rgb(0, 0, 0, 0.65);
